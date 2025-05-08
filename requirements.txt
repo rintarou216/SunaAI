@@ -1,5 +1,5 @@
 torch
-
+streamlit==1.33.0
 torch==2.0.0
 torchvision==0.15.1
 torchaudio==2.0.1
